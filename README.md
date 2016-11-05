@@ -1,10 +1,10 @@
 # kc-reactnative-flexbasics
-Code example from YouTube video [https://www.youtube.com/watch?v=-xFF5KF-KpE](React Native Flex Basics)
+Code example from YouTube video [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE)
 
-Icons from [https://thenounproject.com/](thenounproject.com):
+Icons from [The Noun Project](https://thenounproject.com/):
 
-- [https://thenounproject.com/term/thumbtack/32175/](Thumbtack)
-- [https://thenounproject.com/term/elipses/70912/](Elipses)
-- [https://thenounproject.com/term/back/516562/](Back)
-- [https://thenounproject.com/term/deliver/677488/](Deliver)
-- [https://thenounproject.com/term/heart/96615/](Heart)
+- [Thumbtack](https://thenounproject.com/term/thumbtack/32175/)
+- [Elipses](https://thenounproject.com/term/elipses/70912/)
+- [Back](https://thenounproject.com/term/back/516562/)
+- [Deliver](https://thenounproject.com/term/deliver/677488/)
+- [Heart](https://thenounproject.com/term/heart/96615/)
